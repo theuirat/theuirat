@@ -1,6 +1,8 @@
 # theuirat
 
-Product Designer building at the intersection of AI and human experience.
+I'm a Product Designer (UX, UI, and SD), with over 10 years of experience working with people that strive for inclusive design that betters people and the planet.
+
+I love working in build teams across various clients and industries. I am currently building UI for SafetyCulture's platform, across web and native apps.
 
 ---
 
