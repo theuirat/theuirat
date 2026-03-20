@@ -19,6 +19,7 @@ Experiments and learning projects.
 
 | Repo | Description |
 |------|-------------|
+| [fk-strata](https://github.com/theuirat/fk-strata) | SaaS platform for Australian strata committees — levies, work orders, compliance, AI chatbot |
 | [private-chatbot](https://github.com/theuirat/private-chatbot) | Private chatbot with RAG using the BMAD method |
 
 ## 🫶 SafetyCulture Prototypes
