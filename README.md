@@ -4,6 +4,8 @@ I'm a Product Designer (UX, UI, and SD), with over 10 years of experience workin
 
 I love working in build teams across various clients and industries. I am currently building UI for SafetyCulture's platform, across web and native apps.
 
+🎉 Excited to share that **People Like You** has been selected for the **Remarkable Launcher 2026** cohort! There were 150 ideas from across the globe and I was one of 42 start-ups selected. Watch this space for updates as I pivot this in the disability tech space.
+
 ---
 
 ## 💘 People and Planet
@@ -13,11 +15,6 @@ Projects for social good and health.
 |------|-------------|------------|
 | [people-like-you](https://github.com/theuirat/people-like-you) | A platform where people share what helped them recover so others can learn from real experiences | Private |
 | [BackGPT](https://github.com/theuirat/BackGPT) | AI tool for managing degenerative disc disease and spinal stenosis | Public |
-
-### 🎉 People Like You — Remarkable Launcher 2026
-People Like You has been selected for the **[Remarkable Launcher 2026](https://www.remarkable.org.au)** cohort — a global accelerator for disability tech startups. Out of 150 ideas submitted from across the globe, People Like You was one of 42 start-ups selected.
-
-Watch this space for updates as the project evolves in the disability tech space.
 
 ## 🛝 Playground
 Experiments and learning projects.
