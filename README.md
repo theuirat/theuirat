@@ -9,22 +9,15 @@ I love working in build teams across various clients and industries. I am curren
 ## 💘 People and Planet
 Projects for social good and health.
 
-| Repo | Description |
-|------|-------------|
-| [people-like-you](https://github.com/theuirat/people-like-you) | A platform where people share what helped them recover so others can learn from real experiences |
-| [BackGPT](https://github.com/theuirat/BackGPT) | AI tool for managing degenerative disc disease and spinal stenosis |
+| Repo | Description | Visibility |
+|------|-------------|------------|
+| [people-like-you](https://github.com/theuirat/people-like-you) | A platform where people share what helped them recover so others can learn from real experiences | Public |
+| [BackGPT](https://github.com/theuirat/BackGPT) | AI tool for managing degenerative disc disease and spinal stenosis | Public |
 
 ## 🛝 Playground
 Experiments and learning projects.
 
-| Repo | Description |
-|------|-------------|
-| [fk-strata](https://github.com/theuirat/fk-strata) | SaaS platform for Australian strata committees — levies, work orders, compliance, AI chatbot |
-| [private-chatbot](https://github.com/theuirat/private-chatbot) | Private chatbot with RAG using the BMAD method |
-
-## 🫶 SafetyCulture Prototypes
-Design prototypes built for SafetyCulture.
-
-| Repo | Description |
-|------|-------------|
-| [email-less-login](https://github.com/theuirat/email-less-login) | Email-less auth flow prototype (QR code / login link) |
+| Repo | Description | Visibility |
+|------|-------------|------------|
+| [fk-strata](https://github.com/theuirat/fk-strata) | SaaS platform for Australian strata committees — levies, work orders, compliance, AI chatbot | Public |
+| [private-chatbot](https://github.com/theuirat/private-chatbot) | Private chatbot with RAG using the BMAD method | Public |
