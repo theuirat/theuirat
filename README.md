@@ -11,7 +11,7 @@ Projects for social good and health.
 
 | Repo | Description | Visibility |
 |------|-------------|------------|
-| [people-like-you](https://github.com/theuirat/people-like-you) | A platform where people share what helped them recover so others can learn from real experiences | Public |
+| [people-like-you](https://github.com/theuirat/people-like-you) | A platform where people share what helped them recover so others can learn from real experiences | Private |
 | [BackGPT](https://github.com/theuirat/BackGPT) | AI tool for managing degenerative disc disease and spinal stenosis | Public |
 
 ## 🛝 Playground
@@ -19,5 +19,5 @@ Experiments and learning projects.
 
 | Repo | Description | Visibility |
 |------|-------------|------------|
-| [fk-strata](https://github.com/theuirat/fk-strata) | SaaS platform for Australian strata committees — levies, work orders, compliance, AI chatbot | Public |
+| [fk-strata](https://github.com/theuirat/fk-strata) | SaaS platform for Australian strata committees — levies, work orders, compliance, AI chatbot | Private |
 | [private-chatbot](https://github.com/theuirat/private-chatbot) | Private chatbot with RAG using the BMAD method | Public |
