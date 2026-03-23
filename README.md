@@ -14,6 +14,11 @@ Projects for social good and health.
 | [people-like-you](https://github.com/theuirat/people-like-you) | A platform where people share what helped them recover so others can learn from real experiences | Private |
 | [BackGPT](https://github.com/theuirat/BackGPT) | AI tool for managing degenerative disc disease and spinal stenosis | Public |
 
+### 🎉 People Like You — Remarkable Launcher 2026
+People Like You has been selected for the **[Remarkable Launcher 2026](https://www.remarkable.org.au)** cohort — a global accelerator for disability tech startups. Out of 150 ideas submitted from across the globe, People Like You was one of 42 start-ups selected.
+
+Watch this space for updates as the project evolves in the disability tech space.
+
 ## 🛝 Playground
 Experiments and learning projects.
 
