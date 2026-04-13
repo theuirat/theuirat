@@ -14,7 +14,7 @@ Projects for social good and health.
 | Repo | Description | Visibility |
 |------|-------------|------------|
 | [people-like-you](https://github.com/theuirat/people-like-you) | A platform where people share what helped them recover so others can learn from real experiences | Private |
-| [BackGPT](https://github.com/theuirat/BackGPT) | AI tool for managing degenerative disc disease and spinal stenosis | Public |
+| [BackGPT](https://github.com/theuirat/BackGPT) | AI tool for managing degenerative disc disease and spinal stenosis | Private |
 
 ## 🛝 Playground
 Experiments and learning projects.
